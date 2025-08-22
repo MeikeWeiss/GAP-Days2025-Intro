@@ -5,4 +5,4 @@ for i in [1..n] do
     res:=res*i;
 do
 
-Print("Faculty of ", n, " is ", res);
+Print("Factorial of ", n, " is ", res);
